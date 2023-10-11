@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Danstagram.Common</id>
+    <version>1.0.1</version>
+    <authors>Danstagram.Common</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="MassTransit.AspNetCore" version="7.3.1" exclude="Build,Analyzers" />
+        <dependency id="MassTransit.RabbitMQ" version="8.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="7.0.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.21.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\bin\Debug\net5.0\Danstagram.Common.dll" target="lib\net5.0\Danstagram.Common.dll" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\bin\Debug\net5.0\Danstagram.Common.deps.json
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\bin\Debug\net5.0\Danstagram.Common.dll
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\bin\Debug\net5.0\Danstagram.Common.pdb
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\obj\Debug\net5.0\Danstagram.Common.csproj.AssemblyReference.cache
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\obj\Debug\net5.0\Danstagram.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\obj\Debug\net5.0\Danstagram.Common.AssemblyInfoInputs.cache
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\obj\Debug\net5.0\Danstagram.Common.AssemblyInfo.cs
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\obj\Debug\net5.0\Danstagram.Common.csproj.CoreCompileInputs.cache
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\obj\Debug\net5.0\Danstagram.Common.dll
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\obj\Debug\net5.0\Danstagram.Common.pdb
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\obj\Debug\net5.0\ref\Danstagram.Common.dll
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Common\src\Danstagram.Common\bin\Debug\net5.0\ref\Danstagram.Common.dll
